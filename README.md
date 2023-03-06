@@ -3,13 +3,16 @@
 
 # Seja Muito Bem Vindo ao Meu Perfil!
   <div id="badges">
-  <a href = "https://github.com/Andlonely">
+  <a href = "https://www.linkedin.com/in/andrew-malcher/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href = "https://www.github.com/andlonely/">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
   </a>
   <img align:right src= "banner.gif"/>
 </div>
 
-Sou estudante de Engenharia da Computação, amo criar soluções criativas! (https://github.com/Andlonely).
+Sou estudante de Engenharia da Computação, amo criar soluções criativas!
 
 -  👨‍💻 Estudante de Front-End!
 -  🤴🏼 Aprendendo a ser melhor a cada dia!
