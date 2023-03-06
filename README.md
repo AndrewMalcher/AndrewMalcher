@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/66445816/223078631-fc66ceda-8cc8-4e43-99cf-e7320a089624.gif)
+
 
 
 # Seja Muito Bem Vindo ao Meu Perfil!
@@ -6,6 +6,7 @@
   <a href = "https://github.com/Andlonely">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img align:right src= "banner.gif"/>
 </div>
 
 Sou estudante de Engenharia da Computação, amo criar soluções criativas! (https://github.com/Andlonely).
@@ -27,6 +28,6 @@ Sou estudante de Engenharia da Computação, amo criar soluções criativas! (ht
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andlonely&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Andlonely&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andlonely&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Andlonely&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
