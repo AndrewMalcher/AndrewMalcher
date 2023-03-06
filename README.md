@@ -1,4 +1,5 @@
-<![banner](https://user-images.githubusercontent.com/66445816/223075803-9f873c57-d14d-4eb0-a7cc-693e5d2755ee.gif) width: 325px;
+![banner](https://user-images.githubusercontent.com/66445816/223078631-fc66ceda-8cc8-4e43-99cf-e7320a089624.gif)
+
 
 # Seja Muito Bem Vindo ao Meu Perfil!
   <div id="badges">
