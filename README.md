@@ -6,7 +6,7 @@
   <a href = "https://www.linkedin.com/in/andrew-malcher/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.github.com/andlonely/">
+  <a href = "https://www.github.com/AndrewMalcher/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
   </a>
   <img align:right src= "banner.gif"/>
@@ -31,6 +31,6 @@ Sou estudante de Engenharia da Computação, amo criar soluções criativas!
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andlonely&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Andlonely&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMalcher&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=AndrewMalcher&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
