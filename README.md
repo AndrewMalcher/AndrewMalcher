@@ -3,7 +3,7 @@
 
 # Seja Muito Bem Vindo ao Meu Perfil!
   <div id="badges">
-  <a href = "https://www.linkedin.com/in/andrew-malcher/">
+  <a href = "https://www.linkedin.com/in/andrew-rodrigues-malcher/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.github.com/AndrewMalcher/">
@@ -14,9 +14,9 @@
 
 Sou estudante de Engenharia da Computação, amo criar soluções criativas!
 
--  👨‍💻 Estudante de Front-End!
+-  👨‍💻 Estudante de Desenvolvimento Web!
 -  🤴🏼 Aprendendo a ser melhor a cada dia!
--  🥷 Almeijo ser Fullstack!
+-  🙏🏻 Almeijo ser um dos melhores Fullstack!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
