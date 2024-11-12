@@ -9,7 +9,6 @@
   <a href = "https://www.github.com/AndrewMalcher/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
   </a>
-  <img align:right src= "banner.gif"/>
 </div>
 
 Sou estudante de Engenharia da Computação, amo criar soluções criativas!
